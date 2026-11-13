@@ -1,1 +1,2 @@
 # torre-imagenes
+Este proyecto surge de un experimento en el que buscaba explorar la fotografía en medios poco contemplados por está misma. El medio que elegí y el que funciona como el lienzo de las fotografías, es el entorno del videojuego “No man´s  sky”, cuya premisa y construcción de su entono me parecieron muy similares o compatibles con la fotografía. Uno de estos conceptos es la exploración que esta muy presente en ambos medios. 
